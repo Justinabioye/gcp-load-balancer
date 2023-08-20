@@ -1,4 +1,4 @@
-# Terraform files this Dev branch
+# Terraform files this feature branch
 .terraform
 terraform.tfstate
 terraform.tfvars
