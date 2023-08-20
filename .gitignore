@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Terraform files this master 
+=======
+# Terraform files this feature branch
+>>>>>>> feature
 .terraform
 terraform.tfstate
 terraform.tfvars
